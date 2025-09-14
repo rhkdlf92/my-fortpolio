@@ -339,7 +339,7 @@ main {
   column-gap: 5px;
   white-space: nowrap;
   position: absolute;
-  bottom: -95%;
+  bottom: -92%;
   left: 0;
   animation: sale-ani 30s linear infinite alternate;
 }
